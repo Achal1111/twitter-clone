@@ -55,4 +55,4 @@ cd twitter-server
 npm install
 npm run dev
 
-![Twitter Clone](https://ibb.co/hLStC49)
+![Twitter Clone](https://i.ibb.co/8NHSXfs/Screenshot-2024-04-30-at-1-54-11-PM.png)
